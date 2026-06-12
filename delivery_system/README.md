@@ -46,6 +46,7 @@
 # Склонируйте репозиторий
 git clone <url-вашего-репозитория>
 cd delivery_system
+# Удалите файл заглушка.txt в logs
 
 # Установите зависимости (только для тестов)
 pip install -r requirements.txt
